@@ -12,8 +12,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/>
 </p>
 <br>
-<div align="center">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=theimo1221&count_private=true&include_all_commits=true" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=theimo1221&show_icons=true&locale=de" alt="theimo1221" />
   </div>
 <!--
 **theimo1221/theimo1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
