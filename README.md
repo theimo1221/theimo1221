@@ -14,6 +14,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theimo1221&show_icons=true&locale=de" alt="theimo1221" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimo1221&layout=compact" />
 </p>
 <!--
 **theimo1221/theimo1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
